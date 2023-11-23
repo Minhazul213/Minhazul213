@@ -3,9 +3,7 @@
 ![Software Engineer ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-i82kdgVUg0fTJU07_ir8LnOGUuAvF4QzLFZFK3A6-Gso322zo5VMo6FVDIR3SiIihg&usqp=CAU)
 
 
-Skills: C/C++/Java/Python/ HTML / CSS
-
-- 🔭 I’m currently working on I'm a Student 
+Skills: C/C++/Java/Python/ HTML / CSS 
 - 🌱 I’m currently learning Java 
 
 
