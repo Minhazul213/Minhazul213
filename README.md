@@ -3,7 +3,7 @@
 ![Software Engineer ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-i82kdgVUg0fTJU07_ir8LnOGUuAvF4QzLFZFK3A6-Gso322zo5VMo6FVDIR3SiIihg&usqp=CAU)
 
 
-Skills: C/C++/Java/Python/ HTML / CSS 
+Skills: C/C++/Java/Python/ HTML /XML / CSS /SQL/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Minhazul213)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Minhazul3689)  
 
