@@ -1,4 +1,4 @@
-![MasterHeader](https://cdn.sanity.io/images/tlr8oxjg/production/9437d7766f7278267511f8a3672cde1aa6349872-1456x816.png?w=3840&q=80&fit=clip&auto=format)]
+![MasterHeader](https://media.istockphoto.com/id/1402798800/vector/computer-technology-concept-computer-network-of-laptop-phone-tablet-on-desk-program-in-image.jpg?s=612x612&w=0&k=20&c=pmx5SWqu-i7yFkOtOrpL_fFYE4jf6vFjGUeU0EAkbHY=)
 <h1 align="center">Hi 👋, I'm Md Minhazul Islam</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
