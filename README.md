@@ -1,24 +1,27 @@
-### Hi there 👋, my name is Minhazul
-#### Software Engineer 
-![Software Engineer ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-i82kdgVUg0fTJU07_ir8LnOGUuAvF4QzLFZFK3A6-Gso322zo5VMo6FVDIR3SiIihg&usqp=CAU)
+<h1 align="center">Hi 👋, I'm Md Minhazul Islam</h1>
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazul&label=Profile%20views&color=0e75b6&style=flat" alt="minhazul" /> </p>
 
-Skills: C/C++/Java/Python/ HTML /XML / CSS /SQL/
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Minhazul213)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Minhazul3689)  
+- 💬 Ask me about **React Native**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **minhazul.islam1.cse@ulab.edu.bd**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minhazul213)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **I am funny**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhazul213)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhazul213&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Minhazul213)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazul&show_icons=true&locale=en&layout=compact" alt="minhazul" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/Minhazul213)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhazul&show_icons=true&locale=en" alt="minhazul" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Minhazul213)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazul&" alt="minhazul" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Minhazul213)  
