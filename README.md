@@ -1,6 +1,7 @@
+![MasterHeader](https://cdn.sanity.io/images/tlr8oxjg/production/9437d7766f7278267511f8a3672cde1aa6349872-1456x816.png?w=3840&q=80&fit=clip&auto=format)]
 <h1 align="center">Hi 👋, I'm Md Minhazul Islam</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazul&label=Profile%20views&color=0e75b6&style=flat" alt="minhazul" /> </p>
 
