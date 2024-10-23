@@ -1,5 +1,4 @@
-<img src="https://media.istockphoto.com/id/614973294/photo/delighted-man-playing-videogames-and-having-a-drink.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=9KcHMkixEux7YnctjsgGjqQYcPKql_1WZSCFsBRvadg=" alt="Delighted man playing videogames and having a drink.">
-<h1 align="center">Hi 👋, I'm Md Minhazul Islam</h1>
+<img align="letf" alt="coding" width="800" height="400" src="https://www.shutterstock.com/image-vector/software-development-web-design-programming-260nw-2416775889.jpg" >
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
