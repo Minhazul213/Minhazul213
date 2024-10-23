@@ -1,4 +1,4 @@
-![MasterHeader](https://camo.githubusercontent.com/e98b993bc5ece4dfc99112d8bea7a4f72dcbe754f573a0f9d031f05e63ef46e5/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313430323739383830302f766563746f722f636f6d70757465722d746563686e6f6c6f67792d636f6e636570742d636f6d70757465722d6e6574776f726b2d6f662d6c6170746f702d70686f6e652d7461626c65742d6f6e2d6465736b2d70726f6772616d2d696e2d696d6167652e6a70673f733d3631327836313226773d30266b3d323026633d706d7835535771752d693779466b4f744f72704c5f66465945346a663676466a475565553045416b6248593d)
+<img src="https://media.istockphoto.com/id/614973294/photo/delighted-man-playing-videogames-and-having-a-drink.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=9KcHMkixEux7YnctjsgGjqQYcPKql_1WZSCFsBRvadg=" alt="Delighted man playing videogames and having a drink.">
 <h1 align="center">Hi 👋, I'm Md Minhazul Islam</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
